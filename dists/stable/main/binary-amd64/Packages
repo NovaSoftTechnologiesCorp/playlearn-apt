@@ -36,18 +36,18 @@ Description: PlayLearn - educational video platform
 
 Package: playlearn
 Architecture: amd64
-Version: 1.0.0-8
+Version: 1.0.0-17
 Priority: optional
 Section: education
 Maintainer: NovaSoft Technologies <dev@novasoftcorp.com>
-Installed-Size: 40632
-Depends: libgtk-3-0, libglib2.0-0, libblkid1, liblzma5, libmpv2 | libmpv1
-Filename: pool/main/p/playlearn/playlearn_1.0.0-8_amd64.deb
-Size: 15800778
-MD5sum: 04390e7ba0703cd52ec9c2a80c86fac9
-SHA1: d784232d5e14b719cfabd57aa9ab071cf0e543cf
-SHA256: 375411ce7996e1aa1ec8d01318aac7842976c805563ee61fef1bf9f4daa017b8
-SHA512: 5e33e0f4bcddbc3b2622807dc751883218119ba55e9723fa4510152f9fcf33955677c9bf8c7a82714d770426016e10921b2f485ae8ed53589e9f19faffad5f75
+Installed-Size: 40656
+Depends: libgtk-3-0t64 | libgtk-3-0, libglib2.0-0t64 | libglib2.0-0, libblkid1, liblzma5, libmpv2
+Filename: pool/main/p/playlearn/playlearn_1.0.0-17_amd64.deb
+Size: 15712880
+MD5sum: b14a11cd7065484dc493576b5410a574
+SHA1: e35f2b42ce45f1f56c88bab214868c5652a2044e
+SHA256: 815f7d6850c02809da946097b983ff3c868fcb7c8f2d26d3feae847daa29d7dc
+SHA512: 7772784160cb8a44e4a1bbc80ed6bcd370cfa1f443d9de814f054ee54744ba384fedd4b55f65cd1f592023a5a92793fbe2a4d00e77f9190f8d5bc15b200c3bb5
 Homepage: https://playinglearn.com
 Description: PlayLearn - educational video platform
  Learning platform with courses, videos, exams and live classes.
