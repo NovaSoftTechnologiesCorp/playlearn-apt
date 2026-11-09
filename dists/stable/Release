@@ -1,0 +1,24 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Mon, 09 Nov 2026 15:39:11 +0000
+Description: PlayLearn para Linux
+Label: PlayLearn
+Origin: PlayLearn
+Suite: stable
+MD5Sum:
+ 359899c94e66c9287f2079b223f30500              176 Release
+ d24c261c99e1cd3bb74358e19f639b13              773 main/binary-amd64/Packages
+ e3504a89aeda39673633b3ca1edab42b              540 main/binary-amd64/Packages.gz
+SHA1:
+ 6c62e292fcd79fdfd20946e63bb2904435d98041              176 Release
+ 3ecd356cfdc5902a52c445c0b4ac0e53cfb607f3              773 main/binary-amd64/Packages
+ 49829a629fb0eedcbd7e7ab74b8c0abb0b429776              540 main/binary-amd64/Packages.gz
+SHA256:
+ efe36fe7bc67d707eca75200c5874b74c480bd5c36a02c68069941ff10894b5d              176 Release
+ 79cc4a0c3b7e20ac15136e76b953c6000eb412326a9b904be191530e8e18a6fc              773 main/binary-amd64/Packages
+ ed072701574ce57a5cbdc97b216d27290bbb941246815b99539a46d10f6ebc3e              540 main/binary-amd64/Packages.gz
+SHA512:
+ 810a5d0d271e8021fce191221d4915eeaa16d5c23992472391b40f5f1d2264b43c46cbe14526be14c6a7cd9ddc97ed293b0961327077b776f7ce9a7c2b5de24d              176 Release
+ a4e1f6037352ebe486b7c1955a8587c03ef3380ca055435a11cc6b593cdfeaac5b69072577006689c36072a02b1006b6001be4c06ab072bba1b54972351f233c              773 main/binary-amd64/Packages
+ abafa90482c2cf552b07088a9c0a0918e00b845dcbd984c9d34b959489790c60eb1702c13ecff634e5ce723a21e0de86596daafdd9237c8266b6ae6dd11a6490              540 main/binary-amd64/Packages.gz
