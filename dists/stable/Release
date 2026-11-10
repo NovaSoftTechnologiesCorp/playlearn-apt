@@ -1,24 +1,24 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Tue, 10 Nov 2026 11:42:03 +0000
+Date: Tue, 10 Nov 2026 11:46:32 +0000
 Description: PlayLearn para Linux
 Label: PlayLearn
 Origin: PlayLearn
 Suite: stable
 MD5Sum:
- 08d91591fd43f3ec888ba863c3911370              176 Release
- 0a80b838b3058fdc2418696701b93266             2397 main/binary-amd64/Packages
- 814df96d9743d2681cb4442ebd9eb972              932 main/binary-amd64/Packages.gz
+ 5c7611e7b55495e519e5e5feb2a79625              176 Release
+ 91ca8414faa946af72a011fbb9fd9065             2397 main/binary-amd64/Packages
+ b419ca2f29ffb0a67735d7debdf81bc3              927 main/binary-amd64/Packages.gz
 SHA1:
- 08bf18e645bc4cd54ab540d159d7d14dc9f546fd              176 Release
- 8ce5510910e90925f5213b40aa4bb5ff3b066921             2397 main/binary-amd64/Packages
- 9c58c47e4f86d5533e5c6bb9e9703e9c0720aea1              932 main/binary-amd64/Packages.gz
+ 1a58de1daa0183f724564d86ca3f28f5b25b566f              176 Release
+ b4b6f86fcff7c80e7e4fb7cdbde9ebc68b694cd9             2397 main/binary-amd64/Packages
+ 2246dafdfaca64f1c6541e5b2c60148bd4f58a70              927 main/binary-amd64/Packages.gz
 SHA256:
- 10bf8c3915a7488c3bf569726f8182402d02b07d96e572fd05d6647867a6a42f              176 Release
- af58f3137de8de2c4d81d6b6716c51cbccb64c3b6bbcc55c24ee272a6588ff31             2397 main/binary-amd64/Packages
- f72637e5003e2cdafe081d0011d22deb677e96cd13342df647c35ac86cd33415              932 main/binary-amd64/Packages.gz
+ 44d3c7693328ec38494c44ca6a542848074aeafa6548fa87dd1f9f358259847e              176 Release
+ 8af46082e35cb50dfab818e80889715d37fef0cdd038c4c21b80693eb4dcc637             2397 main/binary-amd64/Packages
+ 62891fc95911fca9a5df4ae16f04bd5fffd18b42874c6b5d81dbf0f3fab729ae              927 main/binary-amd64/Packages.gz
 SHA512:
- bd094db04b727c37a137b1d862bc403b814a5a7c9fc62c49ac336d83e7f6faa0d66f6f0378ff1bc097acd72e4e65a18cf3ed888e2f45d953c813d30523d8e2bc              176 Release
- 9c529022ed9e5cbe8f953af16851d2599f6cb2818d5d75a8289c6b25a4353fa297513a625a2710897242180474584fb633f1cf1d503d387f5736295b67c2de81             2397 main/binary-amd64/Packages
- 9fc37c7f5fd44e503d928dbbc13ab48c094c78cee8924cd4a622109f9d8baca8cdfbf30bf4611284d56f5d43e35d181e79d90ee0f75c75b7f6cc257b5a2926a7              932 main/binary-amd64/Packages.gz
+ fdde486c42f41bfaab292b68ecf8a58ee09b11f299f000dff4af4f3c4dea9797719ef222e296e219b1a4a248176f7945fbf0bacec8a0e62c219bb32779fbf5af              176 Release
+ 459fda35932bae4ac28683f7c1d47064b2f41a601efc08b9be3a054a8f8f7ae5adc9571c94efcc0d45d2186bc16d789cee88645ce93fcbcf98b510f4f941b85f             2397 main/binary-amd64/Packages
+ 373be48a60f7ac4a588353fabd0817f75109506c89f08445dd81bb2b59e8747182943a566faae026f28272ba415f76b0181910d1be58318a82c41a25439d1e0b              927 main/binary-amd64/Packages.gz
