@@ -1,23 +1,5 @@
 Package: playlearn
 Architecture: amd64
-Version: 1.0.0-53
-Priority: optional
-Section: education
-Maintainer: NovaSoft Technologies <dev@novasoftcorp.com>
-Installed-Size: 41172
-Depends: libgtk-3-0t64 | libgtk-3-0, libglib2.0-0t64 | libglib2.0-0, libblkid1, liblzma5, libmpv2
-Filename: pool/main/p/playlearn/playlearn_1.0.0-53_amd64.deb
-Size: 15929546
-MD5sum: 9170ba453a162bfe9ff9f53b5f00f3ff
-SHA1: 0e8b9dfcc3c244a38c976c3923fa8726650c7863
-SHA256: cde20f4764d8227de49a5d586867036160e50bb6fd2e1ab19625d7abd7dc715d
-SHA512: 30c74cdd044a640ed41b11066d24e192ceaa7f8cc8702de5aebdab435db9b654f136ea79e789f9b03b767f0a2f730e0adbd368c2a6d3fb4598638c96c6aaa921
-Homepage: https://playinglearn.com
-Description: PlayLearn - educational video platform
- Learning platform with courses, videos, exams and live classes.
-
-Package: playlearn
-Architecture: amd64
 Version: 1.0.0-56
 Priority: optional
 Section: education
@@ -48,6 +30,24 @@ MD5sum: 3c16bc8e253300d57993a7f48c9679a6
 SHA1: 626fc06a7777d477a01d61149278b3d0e5ae6fcd
 SHA256: 59b94a7820d758c8b0cf32c22f2497a039640587427a824e1938a81b696f1d5d
 SHA512: d0f0dc6fd661d927e099f8c732420ea3f594430193b5ee31b447fd83c1d46e399e8c061f62e1f3e933136b6844f7a48b0c9557a83c3e3e17fe0361c683ab4db5
+Homepage: https://playinglearn.com
+Description: PlayLearn - educational video platform
+ Learning platform with courses, videos, exams and live classes.
+
+Package: playlearn
+Architecture: amd64
+Version: 1.0.0-58
+Priority: optional
+Section: education
+Maintainer: NovaSoft Technologies <dev@novasoftcorp.com>
+Installed-Size: 41480
+Depends: libgtk-3-0t64 | libgtk-3-0, libglib2.0-0t64 | libglib2.0-0, libblkid1, liblzma5, libmpv2
+Filename: pool/main/p/playlearn/playlearn_1.0.0-58_amd64.deb
+Size: 16093272
+MD5sum: eed5e153e5dbde05577e182aebc8199c
+SHA1: 6435a2d5274edf17cd09e72505f787fd5995755a
+SHA256: 572cdb5340694294aa89cec7451fb1157567a9a0d4a7717c04514760790b3770
+SHA512: 9b7fcd0cf6efcf3102e872ea44b358994e84de205166aed9d16c275d27a2dbffe88cec8fbcbd6dab8fb9cf58df176854aaccbfe1bbb03accf809987f8cb25b6b
 Homepage: https://playinglearn.com
 Description: PlayLearn - educational video platform
  Learning platform with courses, videos, exams and live classes.
